@@ -1,3 +1,1 @@
-# smart-meet
-
-### Working video link - <a href='https://www.youtube.com/watch?v=iCoXuhgdAvc'>Go to video</a>
+# VConnect - A MERN Stack Video Conferencing App
