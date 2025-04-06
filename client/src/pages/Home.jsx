@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState} from 'react';
 import '../styles/Home.css';
-import { AuthContext } from '../context/authContext';
+import { AuthContext } from '../context/AuthContext';
 import { SocketContext } from '../context/SocketContext';
 import {CgEnter} from 'react-icons/cg';
 import {RiVideoAddFill} from 'react-icons/ri';

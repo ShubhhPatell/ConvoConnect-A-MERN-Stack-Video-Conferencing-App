@@ -1,6 +1,6 @@
 import { useContext, useEffect, useRef, useState } from "react";
 import '../styles/MeetPage.css';
-import { Button } from "@mui/base";
+import { Button } from '@mui/material';
 import MicIcon from '@mui/icons-material/Mic';
 import MicOffIcon from '@mui/icons-material/MicOff';
 import VideocamIcon from '@mui/icons-material/Videocam';

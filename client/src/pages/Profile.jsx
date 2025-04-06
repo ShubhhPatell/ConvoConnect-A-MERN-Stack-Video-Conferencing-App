@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from 'react';
 import '../styles/Profile.css';
 import Dropdown from 'react-bootstrap/Dropdown';
 import { Link, useNavigate } from 'react-router-dom';
-import { AuthContext } from '../context/authContext';
+import { AuthContext } from '../context/AuthContext';
 import ProfileCard from '../components/ProfileCard';
 import MeetData from '../components/MeetData';
 import { SocketContext } from '../context/SocketContext';
