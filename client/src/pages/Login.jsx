@@ -26,7 +26,7 @@ const Login = () => {
 
         <div className="smart-header">
             <div className="smart-logo">
-                <h2 ><Link id='smart-logo-h2' to={'/'}>Smart Meet</Link></h2>
+                <h2 ><Link id='smart-logo-h2' to={'/'}>VConnect</Link></h2>
             </div>
         </div>
 
